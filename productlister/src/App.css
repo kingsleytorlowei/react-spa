@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.product {
+  display: inline-block;
+  background-color: whitesmoke;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 3px 3px #ccc;
+  width: 250px;
+  height: 200px;
+  padding: 20px;
+}
+body{
+  background-color: white;
+}
